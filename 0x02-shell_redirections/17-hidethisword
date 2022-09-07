@@ -1,2 +1,0 @@
-#!/bin/bash
-hrep -v "bin" /etc/passwd
